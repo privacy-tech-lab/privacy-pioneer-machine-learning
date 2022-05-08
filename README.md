@@ -1,10 +1,10 @@
 # Privacy Pioneer Machine Learning
 
+## 1. What Is This?
+
 Everything machine learning-related to [Privacy Pioneer](https://github.com/privacy-tech-lab/privacy-pioneer).
 
-<p align="center">
-  <a href="https://www.privacytechlab.org/"><img src="./plt_logo.png" width="200px" height="200px" alt="privacy-tech-lab logo"></a>
-<p>
+## 2. Thank You!
 
 <p align="center"><strong>We would like to thank our financial supporters!</strong></p><br>
 
@@ -25,3 +25,9 @@ Everything machine learning-related to [Privacy Pioneer](https://github.com/priv
 </p>
 
 <p align="center">Conclusions reached or positions taken are our own and not necessarily those of our financial supporters, its trustees, officers, or staff.</p>
+
+##
+
+<p align="center">
+  <a href="https://www.privacytechlab.org/"><img src="./plt_logo.png" width="200px" height="200px" alt="privacy-tech-lab logo"></a>
+<p>
