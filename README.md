@@ -1,4 +1,4 @@
-# privacy-pioneer-machine-learning
+# Privacy Pioneer Machine Learning
 
 Everything machine learning-related to [Privacy Pioneer](https://github.com/privacy-tech-lab/privacy-pioneer).
 
