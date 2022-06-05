@@ -11,12 +11,12 @@ Everything machine learning-related to [Privacy Pioneer](https://github.com/priv
 <p align="center">Major financial support provided by Google.</p>
 
 <p align="center">
-  <a href="">
-    <img class="img-fluid" src="" height="100px" alt="">
+  <a href="https://research.google/outreach/research-scholar-program/recipients/">
+    <img class="img-fluid" src="./google_logo.png" height="80px" alt="Google Logo">
   </a>
 </p>
 
-<p align="center">Additional financial support provided by Wesleyan University.</p>
+<p align="center">Additional financial support provided by the Anil Fernando Endowment and Wesleyan University.</p>
 
 <p align="center">
   <a href="https://www.wesleyan.edu/mathcs/cs/index.html">
