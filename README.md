@@ -17,6 +17,7 @@ Everything machine learning-related to [Privacy Pioneer](https://github.com/priv
 - How do the different scripts, frameworks, data interact?
     - Our datasets are located on Hugging Face, currently under [Daniel's account](https://huggingface.co/dgoldelman) (this will be changed). Our files, scripts, and models are within the Privacy Pioneer Google Drive Folder's [Machine Learning](https://drive.google.com/drive/folders/1tjah6qy8JKf3RmI-ZxnKceiXuGahysE5?usp=sharing) section. Our output models are also under Daniel's account.
 - Where is the model you use in Privacy Pioneer?
+    - The folder [./convertMultiModel/multitaskModelForJSWeb](./convertMultiModel/multitaskModelForJSWeb) is our model that we load into the Privacy Pioneer browser extension.
 
 ## 3. Thank You!
 
