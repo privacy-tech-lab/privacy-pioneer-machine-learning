@@ -7,7 +7,7 @@ Everything machine learning-related to [Privacy Pioneer](https://github.com/priv
 ## 2. What libraries, technologies, and techniques are we using?
 
 - Training/validation/test set data
-    - The datasets we are using are located within the [Privacy Pioneer Google Drive Folder](https://drive.google.com/drive/folders/1GyJDTYrsEcRZ-tD-pAScjE7yOL9Z9O-j?usp=sharing), and are also in this repo under the `annotatedData` folder. We are using a 80% training, 10% validation, 10% test split of the data. The test dataset is set up to be the data that was labeled by multiple independant labelers. See also [Hugging Face](https://huggingface.co/dgoldelman) for the datasets used in the generation of our models.
+    - The datasets we are using are located within the [Privacy Pioneer Google Drive Folder](https://drive.google.com/drive/folders/1GyJDTYrsEcRZ-tD-pAScjE7yOL9Z9O-j?usp=sharing), and are also in this repo under the [./annotatedData](./annotatedData) folder. We are using a 80% training, 10% validation, 10% test split of the data. The test dataset is set up to be the data that was labeled by multiple independant labelers. See also [Hugging Face](https://huggingface.co/dgoldelman) for the datasets used in the generation of our models.
 - Hugging Face
     - [Hugging Face](https://huggingface.co/) is a machine learning library, ML/AI community, and dedicated API that that is set up to assist with the creation, storage, and distribution of machine learning programs and datasets.
 - Google Colab
