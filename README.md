@@ -1,6 +1,12 @@
 # Privacy Pioneer Machine Learning
 
-## 1. What is in this repo?
+[1. What Is in This Repo?](#1-what-is-in-this-repo)  
+[2. What Did We Do?](#2-what-did-we-do)  
+[3. Links to Datasets and Final Models](#3-links-to-datasets-and-final-models)  
+[4. What Libraries, Technologies, and Techniques Are We Using?](#4-what-libraries-technologies-and-techniques-are-we-using)  
+[5. Thank You!](#5-thank-you)
+
+## 1. What Is in This Repo?
 
 [Privacy Pioneer](https://github.com/privacy-tech-lab/privacy-pioneer) is a browser extension built with the purpose of helping people understand the privacy implications of their visits to websites. We realized that we could improve the extension by utilizing machine learning to remove false positives (incorrect results) from being distributed to our users. We created binary text classification models that would intake possible examples of personal location identifiers and would inform the extension whether or not it was a true case of personal data being shared.
 
@@ -10,7 +16,7 @@ This repo contains everything machine learning-related to Privacy Pioneer:
 - Links to all final models we produced.
 - The model that is loaded into the Privacy Pioneer extension.
 
-## 2. What did we do?
+## 2. What Did We Do?
 
 We had to create a way to integrate Machine Learning into a browser extension. This brought up a few questions to answer:
 
@@ -93,7 +99,7 @@ We now had a final model that met our requirements, we used Hugging Face and Ten
 Results: (note: each value is the Average F1 Score)
 <img src="./results.png"></img>
 
-## 4. What libraries, technologies, and techniques are we using?
+## 4. What Libraries, Technologies, and Techniques Are We Using?
 
 - Training/validation/test set data
   - The datasets we are using are located within the [Privacy Pioneer Google Drive Folder](https://drive.google.com/drive/folders/1GyJDTYrsEcRZ-tD-pAScjE7yOL9Z9O-j?usp=sharing), and are also in this repo under the [./annotatedData](./annotatedData) folder. We are using a 80% training, 10% validation, 10% test split of the data. The test dataset is set up to be the data that was labeled by multiple independent labelers.
@@ -122,7 +128,7 @@ Results: (note: each value is the Average F1 Score)
   </a>
 </p>
 
-<p align="center">Additional financial support provided by the Anil Fernando Endowment and Wesleyan University.</p>
+<p align="center">Additional financial support provided by Wesleyan University and the Anil Fernando Endowment.</p>
 
 <p align="center">
   <a href="https://www.wesleyan.edu/mathcs/cs/index.html">
