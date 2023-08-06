@@ -1,3 +1,19 @@
+<p align="center">
+  <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/privacy-tech-lab/privacy-pioneer-machine-learning"></a>
+  <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/releases"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/privacy-tech-lab/privacy-pioneer-machine-learning"></a>
+  <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/privacy-tech-lab/privacy-pioneer-machine-learning"></a>
+  <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/privacy-tech-lab/privacy-pioneer-machine-learning"></a>
+  <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/issues?q=is%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/privacy-tech-lab/privacy-pioneer-machine-learning"></a>
+  <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/privacy-tech-lab/privacy-pioneer-machine-learning?style=social"></a>
+  <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/privacy-tech-lab/privacy-pioneer-machine-learning?style=social"></a>
+  <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/privacy-tech-lab/privacy-pioneer-machine-learning?style=social"></a>
+  <a href="https://github.com/sponsors/privacy-tech-lab"><img alt="GitHub sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"></a>
+</p>
+
+<p align="center">
+<img src="social_preview.png" height="250">
+</p>
+
 # Privacy Pioneer Machine Learning
 
 [1. What Is in This Repo?](#1-what-is-in-this-repo)  
