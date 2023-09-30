@@ -32,6 +32,8 @@ This repo contains everything machine learning-related to Privacy Pioneer:
 - Links to all final models we produced.
 - The model that is loaded into the Privacy Pioneer extension.
 
+The machine learning for Privacy Pioneer is developed and maintained by the [Privacy Pioneer team](https://github.com/privacy-tech-lab/privacy-pioneer#privacy-pioneer).
+
 ## 2. What Did We Do?
 
 We had to create a way to integrate Machine Learning into a browser extension. This brought up a few questions to answer:
