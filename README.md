@@ -24,13 +24,13 @@
 
 ## 1. What Is in This Repo?
 
-[Privacy Pioneer](https://github.com/privacy-tech-lab/privacy-pioneer) is a browser extension built with the purpose of helping people understand the privacy implications of their visits to websites. We realized that we could improve the extension by utilizing machine learning to remove false positives (incorrect results) from being distributed to our users. We created binary text classification models that would intake possible examples of personal location identifiers and would inform the extension whether or not it was a true case of personal data being shared.
+[Privacy Pioneer](https://github.com/privacy-tech-lab/privacy-pioneer) is a browser extension for helping people understand the privacy implications of their visits to websites.
 
 This repo contains everything machine learning-related to Privacy Pioneer:
 
-- The datasets we used for training, validation, and testing the models.
-- Links to all final models we produced.
-- The model that is loaded into the Privacy Pioneer extension.
+- The datasets we used for training, validation, and testing of Privacy Pioneer's machine learning model.
+- Links to all models we experimented with (in their final state).
+- The model that is used in Privacy Pioneer. When a user installs Privacy Pioneer, the model is served from here.
 
 The machine learning for Privacy Pioneer is developed and maintained by the [Privacy Pioneer team](https://github.com/privacy-tech-lab/privacy-pioneer#privacy-pioneer).
 
