@@ -20,7 +20,8 @@
 [2. What Did We Do?](#2-what-did-we-do)  
 [3. Links to Datasets and Final Models](#3-links-to-datasets-and-final-models)  
 [4. What Libraries, Technologies, and Techniques Are We Using?](#4-what-libraries-technologies-and-techniques-are-we-using)  
-[5. Thank You!](#5-thank-you)
+[5. Known Issues](#10-known-issues)  
+[6. Thank You!](#5-thank-you)
 
 ## 1. What Is in This Repo?
 
@@ -134,7 +135,11 @@ Results: (note: each value is the Average F1 Score)
 - Where is the model you use in Privacy Pioneer?
   - The folder [./convertMultiModel/multitaskModelForJSWeb](./convertMultiModel/multitaskModelForJSWeb) is our model that we load into the Privacy Pioneer browser extension.
 
-## 5. Thank You!
+## 5. Known Issues
+
+- As we developed our models in Python and then converted them to JavaScript, we noticed that the conversion resulted in a classification performance decrease of 4.7% points on average for precision, recall, and F1 score. We used Google's official libraries for the conversion and confirmed with Google that our conversion methodology was correct. We have opened [an issue with Google](https://github.com/tensorflow/tfjs/issues/8025).
+
+## 6. Thank You!
 
 <p align="center"><strong>We would like to thank our financial supporters!</strong></p><br>
 
