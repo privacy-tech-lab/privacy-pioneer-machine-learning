@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/privacy-tech-lab/privacy-pioneer-machine-learning"></a>
-  <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/releases"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/privacy-tech-lab/privacy-pioneer-machine-learning"></a>
   <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/privacy-tech-lab/privacy-pioneer-machine-learning"></a>
   <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/privacy-tech-lab/privacy-pioneer-machine-learning"></a>
   <a href="https://github.com/privacy-tech-lab/privacy-pioneer-machine-learning/issues?q=is%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/privacy-tech-lab/privacy-pioneer-machine-learning"></a>
@@ -20,8 +18,8 @@
 [2. What Did We Do?](#2-what-did-we-do)  
 [3. Links to Datasets and Final Models](#3-links-to-datasets-and-final-models)  
 [4. What Libraries, Technologies, and Techniques Are We Using?](#4-what-libraries-technologies-and-techniques-are-we-using)  
-[5. Known Issues](#10-known-issues)  
-[6. Thank You!](#5-thank-you)
+[5. Known Issues](#5-known-issues)  
+[6. Thank You!](#6-thank-you)
 
 ## 1. What Is in This Repo?
 
@@ -141,7 +139,7 @@ Results: (note: each value is the Average F1 Score)
 
 ## 6. Thank You!
 
-<p align="center"><strong>We would like to thank our financial supporters!</strong></p><br>
+<p align="center"><strong>We would like to thank our supporters!</strong></p><br>
 
 <p align="center">Major financial support provided by Google.</p>
 
