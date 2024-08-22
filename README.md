@@ -144,7 +144,7 @@ Results: (note: each value is the Average F1 Score)
 <p align="center">Major financial support provided by Google.</p>
 
 <p align="center">
-  <a href="https://research.google/outreach/research-scholar-program/recipients/">
+  <a href="https://research.google/programs-and-events/research-scholar-program/recipients/?filtertab=2022">
     <img class="img-fluid" src="./google_logo.png" height="80px" alt="Google Logo">
   </a>
 </p>
