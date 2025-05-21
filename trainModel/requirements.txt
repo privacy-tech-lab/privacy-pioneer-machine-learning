@@ -3,7 +3,7 @@ datasets==3.0.0
 transformers==4.44.2
 scikit-learn==1.5.2
 wandb==0.18.0
-ray==2.35.0
+ray==2.43.0
 tokenizers==0.19.1
 pyarrow==17.0.0
 accelerate>=0.21.0
