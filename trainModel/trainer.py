@@ -30,7 +30,7 @@ def main():
     dataset = load_datasets(train_dataset_path, val_dataset_path)
 
     # Define hyperparameters
-    # This is the hyperparameter found by ray tune.
+    # This is the best hyperparameter found by ray tune.
     setup_hyperparameters = [
         {
             'batch_size': 8,
@@ -216,7 +216,7 @@ def evaluate_model(validation_dataset, model_dir, project_folder, run_num, num_e
 
     # Make predictions in batches
     preds = []
-    batch_size_eval = 32  # Adjust as needed
+    batch_size_eval = 32  
     for i in range(0, len(texts), batch_size_eval):
         batch_texts = texts[i:i+batch_size_eval]
         results = classifier(batch_texts)
