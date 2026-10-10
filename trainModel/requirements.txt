@@ -1,5 +1,5 @@
 numpy==1.26.4
-datasets==3.0.0
+datasets==5.0.1
 transformers==5.10.1
 scikit-learn==1.5.2
 wandb==0.18.0
